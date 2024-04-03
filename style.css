@@ -1,12 +1,25 @@
 .bs-header{
     background-color: #3A3A3A;
+    font-size: 1.5rem;
 }
 
-.abt-us-bg{
+.bs-special-bg{
     background-color: #ECECEC;
 }
 
-.abt-us-heading{
+.bs-section-heading{
     font-size: 3em;
     font-weight: 600;
+}
+
+.projects-br-radius{
+    border-radius: 20px;
+}
+
+.gallery-br-radius{
+    border-radius: 20px;
+}
+
+.bs-footer-bg{
+    background-color: #2A2A2A;
 }
